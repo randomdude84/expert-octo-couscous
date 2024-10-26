@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.7.4",
+    "base64-transcode": "^1.0.5",
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2",
+    "qoijs": "^1.0.0",
+    "request": "^2.88.2",
+    "sharp": "^0.33.4"
+  }
+}
