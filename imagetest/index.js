@@ -253,6 +253,4 @@ function clearImageFolder(folderPath) {
     });
 }
 
-
-
 app.listen(3000);
